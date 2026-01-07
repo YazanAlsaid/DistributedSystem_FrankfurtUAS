@@ -1,6 +1,6 @@
 # DistributedSystem_FrankfurtUAS
 
-"Object-Oriented Programming in Java - Advanced Course" knowledge from the modules "Databases" and "Software Engineering – Analysis"
+"Object-Oriented Programming in Java Advanced Course" knowledge from the modules "Databases" and "Software Engineering Analysis"
 
 # Learning outcomes and skills Upon completion of the module the student is able to
 
